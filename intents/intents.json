@@ -1,0 +1,4180 @@
+[
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What is British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Can you explain what British citizenship is?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Tell me about British citizenship.",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What do I need to know about British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Define British citizenship.",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "How does British citizenship work?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What is the purpose of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Can you describe British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What are the benefits of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Give me an overview of British citizenship.",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What does British citizenship allow you to do?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Why do people seek British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What are the requirements for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Who can apply for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Do I qualify for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Is British citizenship a legal right?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What are the types of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Explain the different types of British citizenship.",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What are the various types of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "List the types of British citizenship.",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "Can you tell me about the different types of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "How many types of British citizenship are there?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipGeneral",
+      "language": "en-gb",
+      "text": "What options are there for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "How much does British citizenship cost?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "What is the cost of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Are there any fees for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "What are the charges for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Do I need to pay for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Are there hidden costs for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "What are the expenses involved in obtaining British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "What is the total cost of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Is there a fee for renewing British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Do British citizenship costs vary by country?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "What is the average cost of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Are British citizenship fees refundable?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "How can I pay for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Are there any discounts for British citizenship fees?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipCost",
+      "language": "en-gb",
+      "text": "Can I get financial aid for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What are the rules for British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What can I do with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I work with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What can’t I do with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I volunteer with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What are the study requirements with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What activities are prohibited with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I start a business with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Are there limits on the number of hours I can work with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What are the rules regarding internships with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I change my course of study with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for part-time students with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What are the consequences of violating British citizenship rules?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Are there attendance requirements with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I enroll in online courses with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Are there travel restrictions with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I switch universities with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "What are the academic requirements for maintaining British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I bring dependents with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for different types of British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "CitizenshipRules",
+      "language": "en-gb",
+      "text": "Can I volunteer for any organization with British citizenship?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What is indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Can you explain what indefinite leave to remain is?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Tell me about indefinite leave to remain.",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What do I need to know about indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Define indefinite leave to remain.",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "How does indefinite leave to remain work?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What is the purpose of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Can you describe indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What are the benefits of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Give me an overview of indefinite leave to remain.",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What does indefinite leave to remain allow you to do?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Why do people need indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Who can apply for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Do I qualify for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Is indefinite leave to remain a legal right?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What are the types of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Explain the different types of indefinite leave to remain.",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What are the various types of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "List the types of indefinite leave to remain.",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "Can you tell me about the different types of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "How many types of indefinite leave to remain are there?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementGeneral",
+      "language": "en-gb",
+      "text": "What options are there for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "How much does indefinite leave to remain cost?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "What is the cost of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Are there any fees for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "What are the charges for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Do I need to pay for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Are there hidden costs for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "What are the expenses involved in obtaining indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "What is the total cost of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Is there a fee for renewing indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Do indefinite leave to remain costs vary by country?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "What is the average cost of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Are indefinite leave to remain fees refundable?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "How can I pay for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Are there any discounts for indefinite leave to remain fees?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementCost",
+      "language": "en-gb",
+      "text": "Can I get financial aid for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What are the rules for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What are the requirements for indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What can I do with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I work with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What can’t I do with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I volunteer with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What are the study requirements with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What activities are prohibited with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I start a business with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Are there limits on the number of hours I can work with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What are the rules regarding internships with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I change my course of study with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for part-time students with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What are the consequences of violating indefinite leave to remain rules?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Are there attendance requirements with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I enroll in online courses with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Are there travel restrictions with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I switch universities with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "What are the academic requirements for maintaining indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I bring dependents with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for different types of indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "SettlementRules",
+      "language": "en-gb",
+      "text": "Can I volunteer for any organization with indefinite leave to remain?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What is asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Can you explain what asylum is?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Tell me about asylum.",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What do I need to know about asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Define asylum.",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "How does asylum work?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What is the purpose of asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Can you describe asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What are the benefits of asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Give me an overview of asylum.",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What does asylum allow you to do?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Why do people seek asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Who can apply for asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Do I qualify for asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Is asylum a legal right?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What are the types of asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Explain the different types of asylum.",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What are the various types of asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "List the types of asylum.",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "Can you tell me about the different types of asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "How many types of asylum are there?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumGeneral",
+      "language": "en-gb",
+      "text": "What options are there for asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Is there a cost for applying for asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "How much does it cost to apply for asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Are there any fees for asylum applications?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "What are the charges for an asylum application?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Do I need to pay to seek asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Are there hidden costs for seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "What are the expenses involved in seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "What is the total cost of an asylum application?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Is there a fee for renewing asylum status?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Do asylum application costs vary by country?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "What is the average cost of seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Are asylum application fees refundable?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "How can I pay for my asylum application?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Are there any discounts for asylum application fees?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumCost",
+      "language": "en-gb",
+      "text": "Can I get financial aid for seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What are the rules for seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What are the requirements for asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What can I do with asylum status?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I work while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What can’t I do while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I volunteer while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What are the study requirements while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What activities are prohibited while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I start a business while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Are there limits on the number of hours I can work while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What are the rules regarding internships while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I change my course of study while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for part-time students seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What are the consequences of violating asylum rules?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Are there attendance requirements while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I enroll in online courses while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Are there travel restrictions while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I switch universities while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "What are the academic requirements for maintaining asylum status?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I bring dependents while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for different types of asylum?",
+      "entities": []
+   },
+   {
+      "intent": "AsylumRules",
+      "language": "en-gb",
+      "text": "Can I volunteer for any organization while seeking asylum?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What is a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you explain what a visitor visa is?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Tell me about visitor visas.",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What do I need to know about visitor visas?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Define a visitor visa.",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "How does a visitor visa function?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What is the purpose of a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you describe a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What's the point of having a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Give me an overview of a visitor visa.",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What does a visitor visa allow you to do?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Why do people need visitor visas?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Who needs a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Do I need a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Is a visitor visa necessary?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Are visitor visas mandatory?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What types of visitor visas are there?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Explain the different types of visitor visas.",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What are the various visitor visas available?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "List the types of visitor visas.",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you tell me about the different visitor visas?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "How many types of visitor visas are there?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaGeneral",
+      "language": "en-gb",
+      "text": "What options are there for visitor visas?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "How much is a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What is the cost of a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "How much do I need to pay for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Are there any fees for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What are the charges for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Do I need to pay for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Are there any additional fees for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What is the price of a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What is the application fee for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "How much does it cost to get a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Are there hidden costs for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What are the expenses involved in obtaining a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What is the total cost of a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Is there a cost for renewing a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Do visitor visa costs vary by country?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "What is the average cost of a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Are visitor visa fees refundable?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "How can I pay for my visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Are there any discounts for visitor visa fees?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaCost",
+      "language": "en-gb",
+      "text": "Can I get financial aid for my visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What are the rules for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What are the requirements for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What can I do with a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I work on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What can’t I do with a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I volunteer while on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What are the study requirements for a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What activities are prohibited on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I start a business on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Are there limits on the number of hours I can work?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What are the rules regarding internships on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I change my course of study on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What are the consequences of violating visitor visa rules?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Are there attendance requirements on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I enroll in online courses with a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Are there travel restrictions with a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I switch universities on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "What are the academic requirements for maintaining a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I bring dependents on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for different types of visitor visas?",
+      "entities": []
+   },
+   {
+      "intent": "VisitorVisaRules",
+      "language": "en-gb",
+      "text": "Can I volunteer for any organization on a visitor visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What is a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you explain what a family visa is?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Tell me about family visas.",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What do I need to know about family visas?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Define a family visa.",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "How does a family visa function?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What is the purpose of a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you describe a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What's the point of having a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Give me an overview of a family visa.",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What does a family visa allow you to do?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Why do people need family visas?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Who needs a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Do I need a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Is a family visa necessary?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Are family visas mandatory?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What types of family visas are there?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Explain the different types of family visas.",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What are the various family visas available?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "List the types of family visas.",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you tell me about the different family visas?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "How many types of family visas are there?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaGeneral",
+      "language": "en-gb",
+      "text": "What options are there for family visas?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "How much is a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What is the cost of a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "How much do I need to pay for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Are there any fees for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What are the charges for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Do I need to pay for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Are there any additional fees for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What is the price of a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What is the application fee for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "How much does it cost to get a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Are there hidden costs for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What are the expenses involved in obtaining a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What is the total cost of a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Is there a cost for renewing a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Do family visa costs vary by country?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "What is the average cost of a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Are family visa fees refundable?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "How can I pay for my family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Are there any discounts for family visa fees?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaCost",
+      "language": "en-gb",
+      "text": "Can I get financial aid for my family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What are the rules for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What are the requirements for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What can I do with a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I work on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What can’t I do with a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I volunteer while on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What are the study requirements for a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What activities are prohibited on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I start a business on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What are the rules regarding internships on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I change my course of study on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What are the consequences of violating family visa rules?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Are there attendance requirements on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I enroll in online courses with a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Are there travel restrictions with a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I switch universities on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "What are the academic requirements for maintaining a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I bring dependents on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Are there specific rules for different types of family visas?",
+      "entities": []
+   },
+   {
+      "intent": "FamilyVisaRules",
+      "language": "en-gb",
+      "text": "Can I volunteer for any organization on a family visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What is a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you explain what a work visa is?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Tell me about work visas.",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What do I need to know about work visas?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Define a work visa.",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "How does a work visa function?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What is the purpose of a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you describe a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What's the point of having a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Give me an overview of a work visa.",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What does a work visa allow you to do?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Why do people need work visas?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What are the requirements for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Who needs a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Do I need a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Is a work visa necessary for employment?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Are work visas mandatory?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What types of work visas are there?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Explain the different types of work visas.",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What are the various work visas available?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "List the types of work visas.",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "Can you tell me about the different work visas?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "How many types of work visas are there?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaGeneral",
+      "language": "en-gb",
+      "text": "What options are there for work visas?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "How much is a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What is the cost of a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "How much do I need to pay for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Are there any fees for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What are the charges for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Do I need to pay for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Are there any additional fees for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What is the price of a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What is the application fee for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "How much does it cost to get a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Are there hidden costs for a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What are the expenses involved in obtaining a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What is the total cost of a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Is there a cost for renewing a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Do work visa costs vary by country?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "What is the average cost of a work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Are work visa fees refundable?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "How can I pay for my work visa?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Are there any discounts for work visa fees?",
+      "entities": []
+   },
+   {
+      "intent": "WorkVisaCost",
+      "language": "en-gb",
+      "text": "Can I get financial aid for my work visa?",
+      "entities": []
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"What is a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Do I need a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Who needs a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Is a student visa right for me?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Should I get a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"What types of student visas are available?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"What are the benefits of having a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"What is involved in getting a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Why do I need a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Are student visas difficult to obtain?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"What is the purpose of a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Is a student visa mandatory for international students?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"Can I study without a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"How does a student visa benefit me?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaGeneric",
+      "language":"en-gb",
+      "text":"What happens if I don't get a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"How much is a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Do I need to pay for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"What is the cost for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"How much do I pay for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Are there any additional fees for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Are there any hidden costs associated with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Are there any discounts for student visa fees?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"How can I pay for my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Do student visa costs vary by country?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Are student visa fees refundable?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"What is the average cost of a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Are there scholarships that cover student visa costs?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Is the student visa fee a one-time payment?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Are there payment plans for student visa fees?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"What is the most expensive part of getting a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaCost",
+      "language":"en-gb",
+      "text":"Can I get financial aid for my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What are the rules of a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What can I do with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I work on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What can’t I do with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I do anything with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I volunteer while on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What are the study requirements for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What activities are prohibited on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I start a business on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Are there limits on the number of hours I can work?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What are the rules regarding internships on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I change my course of study on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Are there specific rules for part-time students on a visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What are the consequences of violating student visa rules?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Are there attendance requirements on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I enroll in online courses with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Are there travel restrictions with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I switch universities on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"What are the academic requirements for maintaining a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I bring dependents on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Are there specific rules for different types of student visas?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRules",
+      "language":"en-gb",
+      "text":"Can I volunteer for any organization on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"How long does a student visa last for?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Do I need to renew my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Does my student visa last forever?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"How often do I nned to renew my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Can I extend my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"What happens if my course is longer than my visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"What if I need more time to complete my studies?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"What is the duration of a typical student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"How long can I stay in the country after my visa expires?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Does the length of a student visa vary by program?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Can I extend my stay if I change my course?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"What should I do if my visa expires before I graduate?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"How long before my visa expires should I apply for renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Can I leave the country and return on the same student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Does the length of a student visa depend on the country?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Are there any extensions available beyond the course length?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"How does part-time study affect visa length?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Can my visa be shortened for any reason?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Are there any restrictions on visa extensions?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"What happens if I overstay my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Does transferring schools affect my visa length?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaLength",
+      "language":"en-gb",
+      "text":"Can I get a visa extension for practical training?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"How do I get a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"How can I acquire a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"What is the process for getting a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"How long does it take to get a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"What are the steps to apply for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Do I need a sponsor to get a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"What documents do I need to apply for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Is there an age limit for acquiring a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Are interviews required for obtaining a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"What are the most common steps to get a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Are medical examinations required for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"How can I check the status of my student visa application?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Can I apply for a student visa online?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Do I need to provide biometric data for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Are there any prerequisites for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Can I expedite my student visa application?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Is a background check necessary for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"What are the chances of getting a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Do I need to provide proof of accommodation for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"Are student visas given on a first-come, first-served basis?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAttain",
+      "language":"en-gb",
+      "text":"What should I do if my student visa application is delayed?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What documents are required for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What qualifications do I need for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Do I need to speak English for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What are the financial requirements for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Do I need a letter of acceptance for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Is there an interview for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What is the application fee for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What forms do I need to fill out for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Are personal interviews mandatory for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Do I need a passport for a student visa application?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What financial proofs are needed for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Are transcripts required for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"How do I prepare for a student visa interview?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What is the processing time for a student visa application?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Can I apply for a student visa without a sponsor?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Are there any language requirements for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What happens after I submit my student visa application?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Can I apply for a student visa from any country?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"What supporting documents are needed for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Are there any specific photo requirements for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Do I need to pay the application fee before applying?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaApplication",
+      "language":"en-gb",
+      "text":"Can I apply for a student visa while on another visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"My student visa was rejected?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What should I do if my student visa was rejected?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Can I reapply if my student visa was declined?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"How can I appeal a rejected student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What are the common reasons for student visa rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What should I avoid to prevent my student visa from being rejected?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What steps should I take if my student visa is denied?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Can I appeal a student visa rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What are the typical reasons for a student visa denial?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Is there a waiting period after a student visa rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"How can I strengthen my application after a rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Are student visa rejections common?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Can legal help assist with a student visa rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What are my options if my student visa is refused?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"How do I find out why my student visa was rejected?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Can I reapply immediately after a student visa rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What should I avoid to ensure my student visa is approved?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Are there any fees for reapplying after a rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Does a rejection affect future visa applications?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"What is the appeal process for a student visa rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRejected",
+      "language":"en-gb",
+      "text":"Can I request a review of my student visa application?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can I bring my family with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can I bring my girlfriend with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can I bring my boyfriend with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can I bring my wife with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can I bring my husband with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can I bring my partner with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"What are the requirements for bringing family members on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can my children join me on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can family members visit me on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"What is the process to bring family on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Do family members need separate visas?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can my spouse work while on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Are there any age restrictions for children on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can my parents join me on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"What documents are needed for family members?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Are there any fees for bringing family members?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can my family members study while on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"What is the duration of stay for family members?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Are family members allowed to travel with me?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can my family live with me while I study?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Are there any limits on the number of family members I can bring?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"Can my partner work part-time on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaFamily",
+      "language":"en-gb",
+      "text":"What healthcare options are available for my family?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Can I use the NHS with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Do I need health insurance with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Can I access medical care with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"What healthcare services are available for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Do I need to pay for healthcare on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Is health insurance mandatory for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Is healthcare free for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"What is the health surcharge for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"How do I register for healthcare with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Are dental services included with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"What happens if I get sick while on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Can I see a specialist with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Are prescriptions covered with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"What is the process for emergency healthcare?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Do I need to pay for medical treatments upfront?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Is mental health support available for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Can I bring my own health insurance?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"What vaccinations are required for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Are there any health check-ups required after arrival?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Can I access private healthcare with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaHealth",
+      "language":"en-gb",
+      "text":"Are there any healthcare services specifically for international students?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"How do I renew my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"When should I apply for a student visa renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What documents do I need for renewing a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What are the fees for renewing a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Can I stay in the UK while my renewal is being processed?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What is the renewal process for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Can I renew my student visa online?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Are there any deadlines for student visa renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What should I do if my renewal is denied?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"How long does the renewal process take?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Are there any restrictions on renewing a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Can I continue studying while my renewal is processed?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Is there a limit to how many times I can renew?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What happens if I don't renew my student visa on time?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Do I need to provide financial proof for renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Can I renew my visa from outside the country?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What changes can I make during renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Are there any interviews for visa renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"Can I change my course during visa renewal?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaRenewal",
+      "language":"en-gb",
+      "text":"What are the common reasons for renewal rejection?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What can I do after my student visa expires?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I stay in the UK after I graduate?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What visa options are available after graduation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I switch to a work visa after my studies?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What is the Graduate Route visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What are my options after my student visa expires?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I apply for a post-study work visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"How long can I stay after my course ends?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Are there visa options for graduates?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What is the process to switch to a work visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I start working immediately after graduation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What documents do I need for a post-study visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Are there any fees for post-study visas?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I study further after graduation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What is the Graduate Route visa process?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I bring dependents on a post-study visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Are there any restrictions on work after graduation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"Can I apply for permanent residency after my studies?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"What is the timeline for switching visas after graduation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAfterGraduation",
+      "language":"en-gb",
+      "text":"How do I extend my stay for further studies?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I travel outside the UK with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"What happens if I travel during my studies on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Do I need a re-entry visa if I leave the UK?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Are there any travel restrictions with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I leave the country and return with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Are there any re-entry requirements for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I travel during my studies?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"What should I do if I travel outside the UK?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Are there any travel restrictions during holidays?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Do I need to inform authorities before traveling?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I travel to other countries with my student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"What happens if I miss classes due to travel?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Are there any special travel rules for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I take a semester off to travel?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Do I need a visa to re-enter the UK?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Are there any limits on travel duration?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I travel during my course breaks?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"What should I consider before traveling on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaTravel",
+      "language":"en-gb",
+      "text":"Can I work while traveling outside the UK?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Do I need to arrange accommodation before applying for a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Can I live off-campus with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"What are the accommodation options for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Is university accommodation guaranteed with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Is on-campus accommodation mandatory for visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Can I change my accommodation after getting my visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Are there specific accommodations for international students?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"What are the housing options for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Can I rent private accommodation with a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Are there any accommodation grants for student visa holders?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Do I need to prove my accommodation status for a visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"What happens if I lose my accommodation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Can I stay with relatives while on a student visa?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Are there any rules for living off-campus?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Can I share accommodation with other students?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"What are the costs of student accommodation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Are utilities included in student accommodation?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"How do I find accommodation as a new student?",
+      "entities":[
+
+      ]
+   },
+   {
+      "intent":"StudentVisaAccommodation",
+      "language":"en-gb",
+      "text":"Is university housing guaranteed for visa holders?",
+      "entities":[
+
+      ]
+   }
+]
+
+

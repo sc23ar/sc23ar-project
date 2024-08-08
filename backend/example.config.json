@@ -1,0 +1,13 @@
+{
+  "database": {
+    "user": "",
+    "password": "",
+    "host": ""
+  },
+  "azure": {
+    "endpoint": "",
+    "credential":"",
+    "project_name": "",
+    "deployment_name": ""
+  }
+}
